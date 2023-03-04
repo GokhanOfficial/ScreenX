@@ -26,9 +26,9 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyCompany("ShareX Team")]
-[assembly: AssemblyProduct("ShareX")]
-[assembly: AssemblyCopyright("Copyright (c) 2007-2023 ShareX Team")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("Windows Calculator")]
+[assembly: AssemblyCopyright("© Microsoft Corporation. All rights reserved.")]
 [assembly: ComVisible(false)]
-[assembly: AssemblyVersion("15.0.0")]
-[assembly: AssemblyFileVersion("15.0.0")]
+[assembly: AssemblyVersion("10.0.19041.1")]
+[assembly: AssemblyFileVersion("6.2.19041.1")]
